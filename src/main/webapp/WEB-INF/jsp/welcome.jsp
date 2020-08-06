@@ -10,6 +10,5 @@
 </head>
 <body>
 	Welcome~~~~
-	my name is yechan
 </body>
 </html>
